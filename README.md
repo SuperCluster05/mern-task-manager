@@ -4,6 +4,9 @@ A full-stack web app where users sign up, create projects, add team members, ass
 
 **Stack:** MongoDB · Express · React (Vite) · Node.js
 
+**Live App:** https://mern-task-manager-production-6715.up.railway.app  
+**GitHub Repo:** https://github.com/SuperCluster05/mern-task-manager
+
 ---
 
 ## 1. Features
